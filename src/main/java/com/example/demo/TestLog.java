@@ -30,6 +30,7 @@ public class TestLog {
         log1.info("ALL级别打印：info级别的日志信息");
         log1.severe("warning级别打印：severe级别日志信息");
 
+
     }
 
 }
