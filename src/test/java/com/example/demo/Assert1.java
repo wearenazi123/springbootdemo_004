@@ -3,6 +3,10 @@ package com.example.demo;
 import org.junit.Assert;
 import org.junit.Test;
 
+/**
+ * @deprecated
+ */
+@Deprecated
 public class Assert1 {
 
     @Test
